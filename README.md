@@ -1,3 +1,6 @@
+https://mountains-chatbot-2.streamlit.app/
+
+
 # 🇵🇰 Pakistan Travel Assistant
 
 A Streamlit-based AI chatbot that helps users plan domestic trips within Pakistan — destinations, itineraries, budgets, transportation, and more. Built with LangChain and OpenAI's GPT-4o-mini.
